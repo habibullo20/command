@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1263px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header-box {
+    background-image: url(/img/bacgraund.png);
+    background-repeat: no-repeat;
+    background-position: 0%;
+}
+
+.header-title {
+    display: flex;
+    list-style: none;
+    justify-content: end;
+    margin-left: 50px;
+
+}
+
+
+
+.header-title-li {
+    font-family: Oswald;
+    margin: 20px 20px;
+    color: #fff;
+    size: 14px;
+}
+
+.header-next-box {
+    margin-top: 208px;
+    margin-left: 180px;
+    color: #fff;
+}
+
+.header-h {
+    font-size: 42px;
+}
+
+.header-p {
+    display: flex;
+    margin-left: 130px;
+    margin-top: 27px;
+    font-size: 20px;
+}
+
+.header-hero {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    margin-top: 308px;
+}
+
+.header-two {
+    color: #515050;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+
+.header-there {
+    color: #515050;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+.picture {
+    width: 1182px;
+    height: 559px;
+}
+.hero-h {
+    font-family: Oswald;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 71px;
+    text-align: left;    
+}
